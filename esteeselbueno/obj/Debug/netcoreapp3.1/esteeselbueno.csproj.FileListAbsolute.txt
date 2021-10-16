@@ -1,0 +1,14 @@
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\bin\Debug\netcoreapp3.1\esteeselbueno.exe
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\bin\Debug\netcoreapp3.1\esteeselbueno.deps.json
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\bin\Debug\netcoreapp3.1\esteeselbueno.runtimeconfig.json
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\bin\Debug\netcoreapp3.1\esteeselbueno.runtimeconfig.dev.json
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\bin\Debug\netcoreapp3.1\esteeselbueno.dll
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\bin\Debug\netcoreapp3.1\esteeselbueno.pdb
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.csproj.AssemblyReference.cache
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.AssemblyInfoInputs.cache
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.AssemblyInfo.cs
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.csproj.CoreCompileInputs.cache
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.dll
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.pdb
+C:\Users\gilbe\source\repos\esteeselbueno\esteeselbueno\obj\Debug\netcoreapp3.1\esteeselbueno.genruntimeconfig.cache
